@@ -16,7 +16,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
 1.) In which countries are the developers most happy?
+
 2.) Does the provided equipment seem to influence the job satisfaction?
+
 3.) Are developers that are able to invest a lot of time in improving their tooling more happy than the average developers?
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  
