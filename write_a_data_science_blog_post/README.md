@@ -29,7 +29,7 @@ There is a notebooks available here to showcase work related to the above questi
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com).
+The main findings of the code can be found at the post available [here](https://medium.com/@dan.gunnarsson/factors-for-developer-job-satisfaction-c2865e6c4373).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
